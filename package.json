@@ -1,0 +1,24 @@
+{
+  "name": "functional-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordsCount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komarov-sergey/functional-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komarov-sergey/functional-examples/issues"
+  },
+  "homepage": "https://github.com/komarov-sergey/functional-examples#readme",
+  "dependencies": {
+    "@types/ramda": "^0.27.4",
+    "ramda": "^0.27.0"
+  }
+}
